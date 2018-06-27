@@ -1,0 +1,146 @@
+{
+  "chaos": [
+    {
+      "id": "C-CB",
+      "name": "Chaos Bastions"
+    }, {
+      "id": "C-CD",
+      "name": "Chaos Daemons"
+    }, {
+      "id": "C-CSM",
+      "name": "Chaos Space Marines"
+    }, {
+      "id": "C-DOK",
+      "name": "Daemons Of Khorne"
+    }, {
+      "id": "C-DON",
+      "name": "Daemons Of Nurgle"
+    }, {
+      "id": "C-DOS",
+      "name": "Daemons Of Slaanesh"
+    }, {
+      "id": "C-DOT",
+      "name": "Daemons Of Tzeentch"
+    }, {
+      "id": "C-DG",
+      "name": "Death Guard"
+    }, {
+      "id": "C-EC",
+      "name": "Emperors Children"
+    }, {
+      "id": "C-QT",
+      "name": "Questor Traitoris"
+    }, {
+      "id": "C-TS",
+      "name": "Thousand Sons"
+    }, {
+      "id": "C-WE",
+      "name": "World Eater"
+    }
+  ],
+  "imperium": [
+    {
+      "id": "I-AS",
+      "name": "Adepta Sorositas"
+    }, {
+      "id": "I-AC",
+      "name": "Adeptus Custodes"
+    }, {
+      "id": "I-ADMEC",
+      "name": "Adeptus Mechanicum"
+    }, {
+      "id": "I-ADMI",
+      "name": "Adeptus Ministorum"
+    }, {
+      "id": "I-AM",
+      "name": "Astra Militarum"
+    }, {
+      "id": "I-BT",
+      "name": "Black Templars"
+    }, {
+      "id": "I-BA",
+      "name": "Blood Angels"
+    }, {
+      "id": "I-CF",
+      "name": "Crimson Fists"
+    }, {
+      "id": "I-DA",
+      "name": "Dark Angels"
+    }, {
+      "id": "I-D",
+      "name": "Deathwatch"
+    }, {
+      "id": "I-FT",
+      "name": "Flesh Tearers"
+    }, {
+      "id": "I-F",
+      "name": "Fortifications"
+    }, {
+      "id": "I-GK",
+      "name": "Grey Knights"
+    }, {
+      "id": "I-LOTD",
+      "name": "Legion Of The Damned"
+    }, {
+      "id": "I-OA",
+      "name": "Officio Assassinorum"
+    }, {
+      "id": "I-QI",
+      "name": "Questor Imperialis"
+    }, {
+      "id": "I-RG",
+      "name": "Raven Guard"
+    }, {
+      "id": "I-S",
+      "name": "Salamenders"
+    }, {
+      "id": "I-SOS",
+      "name": "Sisters Of Silence"
+    }, {
+      "id": "I-SM",
+      "name": "Space Marines"
+    }, {
+      "id": "I-SW",
+      "name": "Space Wolves"
+    }, {
+      "id": "I-TI",
+      "name": "The Inquisition"
+    }, {
+      "id": "I-U",
+      "name": "Ultramarines"
+    }, {
+      "id": "I-WS",
+      "name": "White Scars"
+    }
+  ],
+  "xenos": [
+    {
+      "id": "X-C",
+      "name": "Craftworlds"
+    }, {
+      "id": "X-D",
+      "name": "Drukhari"
+    }, {
+      "id": "X-GC",
+      "name": "Genestealer Cult"
+    }, {
+      "id": "X-H",
+      "name": "Harlequins"
+    }, {
+      "id": "X-N",
+      "name": "Necrons"
+    }, {
+      "id": "X-O",
+      "name": "Orks"
+    }, {
+      "id": "X-TE",
+      "name": "T'au Empire"
+    }, {
+      "id": "X-T",
+      "name": "Tyranids"
+    }, {
+      "id": "X-Y",
+      "name": "Ynnari"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kaltar.project_mama">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".NavigationMenu"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BitsCollector"
+            android:label="@string/bit_collec"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".ArmyCreator"
+            android:label="@string/army_creator"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".Wargaming"
+            android:label="@string/title_activity_wargaming"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".Hobbying"
+            android:label="@string/title_activity_hobbying"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".NewsFeedMenu"
+            android:label="@string/title_activity_news_feed_menu"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="@string/title_activity_about_us"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".NavigationMenu">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".MyBitsItemRecyclerViewAdapter"
+            android:label="@string/title_activity_about_us"
+            android:parentActivityName=".NavigationMenu"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.NavigationMenu" />
+        </activity>
+        <activity
+            android:name=".BitsListItemFragment"
+            android:label="@string/title_activity_bits_list_item_fragment"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.BitsCollector" />
+        </activity>
+        <activity
+            android:name=".BitsListSearch"
+            android:label="@string/title_activity_bits_list_search"
+            android:parentActivityName=".BitsCollector"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kaltar.project_mama.BitsCollector" />
+        </activity>
+    </application>
+
+</manifest>

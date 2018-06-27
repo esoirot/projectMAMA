@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".BitsListSearch"
+    tools:showIn="@layout/activity_bits_list_search">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5px"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bits_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/bits_list_tab_bits_list"
+            android:onClick="onClickButtonBitsList"/>
+
+        <Button
+            android:id="@+id/bits_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@android:string/search_go"
+            android:onClick="onClickButtonSearchList"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5px"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
+        tools:layout_editor_absoluteX="0dp">
+
+
+        <EditText
+            android:id="@+id/EditTextName"
+            android:layout_height="wrap_content"
+            android:hint="@string/bit_name"
+            android:inputType="textPersonName"
+            android:layout_width="fill_parent">
+        </EditText>
+
+        <Spinner
+            android:id="@+id/SpinnerBitType"
+            android:layout_height="wrap_content"
+            android:prompt="@string/bit_type"
+            android:layout_width="fill_parent"
+            android:entries="@array/bits_type">
+        </Spinner>
+
+
+        <Spinner
+            android:id="@+id/SpinnerBitFaction"
+            android:layout_height="wrap_content"
+            android:prompt="@string/bit_faction"
+            android:layout_width="fill_parent"
+            android:entries="@array/bits_faction">
+        </Spinner>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bits_doSearch"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_weight="1"
+        android:onClick="onClickButtonDoSearchList"
+        android:text="@android:string/search_go"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,68 @@
+{
+  "bases": {
+    "round": [
+      { "id": "B-R-25", "name": "Citadel 25mm Round Base" },
+      { "id": "B-R-S-25", "name": "Citadel 25mm Round Slot Base" },
+      { "id": "B-R-32", "name": "Citadel 32mm Round Base" },
+      { "id": "B-R-40", "name": "Citadel 40mm Round Base" },
+      { "id": "B-R-50", "name": "Citadel 50mm Round Base" },
+      { "id": "B-R-60", "name": "Citadel 60mm Round Base" },
+      { "id": "B-R-T-60", "name": "Citadel 60mm Round Textured Base" },
+      { "id": "B-R-80", "name": "Citadel 80mm Round Base" },
+      { "id": "B-R-100", "name": "Citadel 100mm Round Base" },
+      { "id": "B-R-130", "name": "Citadel 130mm Round Base" },
+      { "id": "B-R-160", "name": "Citadel 160mm Round Base" },
+      { "id": "B-N-25", "name": "Necromunda 25mm Base" },
+      { "id": "B-N-32", "name": "Necromunda 32mm Base" },
+      { "id": "B-SMI", "name": "Sector Mechanicus Industrial Base" }
+    ],
+    "oval": [
+      { "id": "B-O-70X25", "name": "Citadel 70x25mm Oval Base" },
+      { "id": "B-O-60x35", "name": "Citadel 60x35mm Oval Base" },
+      { "id": "B-O-75x42", "name": "Citadel 75x42mm Oval Base" },
+      { "id": "B-O-90x52", "name": "Citadel 90x52mm Oval Base" },
+      { "id": "B-O-90x70", "name": "Citadel 90x70mm Oval Base" },
+      { "id": "B-O-120x92", "name": "Citadel 120x92mm Oval Base" },
+      { "id": "B-O-170x105", "name": "Citadel 170x105mm Oval Base" }
+    ],
+    "rectangular": [
+      { "id": "B-REC-50X25", "name": "Citadel 50x25mm Rectangular Base" },
+      { "id": "B-REC-60x40", "name": "Citadel 60x40mm Rectangular Base" },
+      { "id": "B-REC-75x50", "name": "Citadel 75x50mm Rectangular Base" },
+      { "id": "B-REC-100x50", "name": "Citadel 100x50mm Rectangular Base" },
+      { "id": "B-REC-100x60", "name": "Citadel 100x60mm Rectangular Base" },
+      { "id": "B-REC-150x100", "name": "Citadel 150x100mm Rectangular Base" }
+    ],
+    "shattered dominion": [
+      { "id": "B-SD-25", "name": "Shattered Dominion 25mm Base" },
+      { "id": "B-SD-32", "name": "Shattered Dominion 32mm Base" },
+      { "id": "B-SD-40", "name": "Shattered Dominion 40mm Base" },
+      { "id": "B-SD-60", "name": "Shattered Dominion 60mm Base" },
+      { "id": "B-SD-65", "name": "Shattered Dominion 65mm Base" },
+      { "id": "B-SD-90", "name": "Shattered Dominion 90mm Base" },
+      { "id": "B-SD-H", "name": "Shattered Dominion Hero Base" }
+    ],
+    "sector imperialis": [
+      { "id": "B-SI-25", "name": "Sector Imperialis 25mm Base" },
+      { "id": "B-SI-32", "name": "Sector Imperialis 32mm Base" },
+      { "id": "B-SI-40", "name": "Sector Imperialis 40mm Base" },
+      { "id": "B-SI-60", "name": "Sector Imperialis 60mm Base" },
+      { "id": "B-SI-75", "name": "Sector Imperialis 65mm Base" },
+      { "id": "B-SI-90", "name": "Sector Imperialis 90mm Base" },
+      { "id": "B-SI-H", "name": "Sector Imperialis Hero Base" }
+    ],
+    "flying": [
+      { "id": "B-F-BT-32", "name": "Citadel Ball Top Flying Stem with 32mm Flying Base" },
+      { "id": "B-F-BT-60", "name": "Citadel Ball Top Flying Stem with 60mm Flying Base" },
+      { "id": "B-F-32", "name": "Citadel Flying Stem with 32mm Flying Base" },
+      { "id": "B-F-60", "name": "Citadel Flying Stem with 60mm Flying Base" },
+      { "id": "B-F", "name": "Citadel Flying Stem and Base" }
+    ],
+    "square": [
+      { "id": "B-S-20x20", "name": "Citadel 20x20mm Square Base" },
+      { "id": "B-S-25x25", "name": "Citadel 25x25mm Base" },
+      { "id": "B-S-40x40", "name": "Citadel 40x40mm Base" },
+      { "id": "B-S-50x50", "name": "Citadel 50x50mm Base" }
+    ]
+  }
+}

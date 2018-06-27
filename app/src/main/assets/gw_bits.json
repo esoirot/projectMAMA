@@ -1,0 +1,296 @@
+{
+  "heads": [
+    {
+      "id": "I-SM-SCT-H-A",
+      "name": "Space Marines Scout Head A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-H-B",
+      "name": "Space Marines Scout Head B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-H-C",
+      "name": "Space Marines Scout Head C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-H-D",
+      "name": "Space Marines Scout Head D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-H-E",
+      "name": "Space Marines Scout Head E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-H-F",
+      "name": "Space Marines Scout Head F",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ],
+  "torsos": [
+    {
+      "id": "I-SM-SCT-T-A",
+      "name": "Space Marines Scout Torso A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-T-B",
+      "name": "Space Marines Scout Torso B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-T-C",
+      "name": "Space Marines Scout Torso C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-T-D",
+      "name": "Space Marines Scout Torso D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-T-E",
+      "name": "Space Marines Scout Torso E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ],
+  "arms": [
+    {
+      "id": "I-SM-SCT-A-HB-A",
+      "name": "Space Marines Scout Arm Heavy Bolter Bipod",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-HB-B",
+      "name": "Space Marines Scout Arm Heavy Bolter",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-HB-C",
+      "name": "Space Marines Scout Arm Heavy Bolter Handle",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-HB-D",
+      "name": "Space Marines Scout Arm Heavy Bolter Shoulder Guard",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RBP-A",
+      "name": "Space Marines Scout Right Arm Bolt Pistol A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RBP-B",
+      "name": "Space Marines Scout Right Arm Bolt Pistol B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RBP-C",
+      "name": "Space Marines Scout Right Arm Bolt Pistol C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RBP-D",
+      "name": "Space Marines Scout Right Arm Bolt Pistol D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RBP-E",
+      "name": "Space Marines Scout Right Arm Bolt Pistol E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-LK-A",
+      "name": "Space Marines Scout Left Arm Knife A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-LK-B",
+      "name": "Space Marines Scout Left Arm Knife B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-LK-C",
+      "name": "Space Marines Scout Left Arm Knife C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-LK-D",
+      "name": "Space Marines Scout Left Arm knife D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-LCS-E",
+      "name": "Space Marines Scout Left Arm Chainsword E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RB-A",
+      "name": "Space Marines Scout Right Arm Boltgun A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RB-B",
+      "name": "Space Marines Scout Right Arm Boltgun B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RB-C",
+      "name": "Space Marines Scout Right Arm Boltgun C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RB-D",
+      "name": "Space Marines Scout Right Arm Boltgun D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RSG-A",
+      "name": "Space Marines Scout Right Arm Shotgun A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RSG-B",
+      "name": "Space Marines Scout Right Arm Shotgun B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RSG-C",
+      "name": "Space Marines Scout Right Arm Shotgun C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-RSG-D",
+      "name": "Space Marines Scout Right Arm Shotgun D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-L-A",
+      "name": "Space Marines Scout Left Arm A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-L-B",
+      "name": "Space Marines Scout Left Arm B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-L-C",
+      "name": "Space Marines Scout Left Arm C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-A-L-D",
+      "name": "Space Marines Scout Left Arm D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ],
+  "legs": [
+    {
+      "id": "I-SM-SCT-L-A",
+      "name": "Space Marines Scout Legs A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-L-B",
+      "name": "Space Marines Scout Legs B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-L-C",
+      "name": "Space Marines Scout Legs C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-L-D",
+      "name": "Space Marines Scout Legs D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-L-E",
+      "name": "Space Marines Scout Legs E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ],
+  "weapons": [
+    {
+      "id": "I-SM-SCT-W-BP",
+      "name": "Space Marines Scout Weapon Bolt Pistol",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-W-K",
+      "name": "Space Marines Scout Weapon Knife",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ],
+  "backpacks": [],
+  "accessories": [
+    {
+      "id": "I-SM-SCT-ACC-A",
+      "name": "Space Marines Scout Accessory A",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-B",
+      "name": "Space Marines Scout Accessory B",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-C",
+      "name": "Space Marines Scout Accessory C",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-D",
+      "name": "Space Marines Scout Accessory D",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-E",
+      "name": "Space Marines Scout Accessory E",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-F",
+      "name": "Space Marines Scout Accessory F",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-G",
+      "name": "Space Marines Scout Accessory G",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-H",
+      "name": "Space Marines Scout Accessory H",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-I",
+      "name": "Space Marines Scout Accessory I",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-J",
+      "name": "Space Marines Scout Accessory J",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }, {
+      "id": "I-SM-SCT-ACC-K",
+      "name": "Space Marines Scout Accessory K",
+      "faction_id": "I-SM",
+      "box_id": "I-SM-SCT-BOX"
+    }
+  ]
+}
